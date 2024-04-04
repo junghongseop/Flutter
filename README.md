@@ -1,1 +1,3 @@
-# Flutter & Dart
+# Flutter Study Repository
+### 플러터의 기초부터 자주사용하는 라이브러리에 대한 공부한 내용을 적어놓는 레포지토리입니다.
+2024년 2월 19일 ~
